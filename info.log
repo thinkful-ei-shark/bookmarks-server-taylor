@@ -1,0 +1,5 @@
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id 1 deleted.","level":"info"}
+{"message":"Bookmark with c76dfa01-9049-49f8-a67f-47af9d52e5e0 created.","level":"info"}
+{"message":"Bookmark with id 1 not found.","level":"error"}
